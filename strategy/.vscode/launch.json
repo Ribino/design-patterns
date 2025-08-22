@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "kotlin",
+      "name": "Debug Kotlin",
+      "request": "launch",
+      "mainClass": "com.example.notification.MainKt",
+      "args": ["Lucas Ribino", "sms"],
+      "preLaunchTask": "Compile Kotlin",
+      "projectRoot": "${workspaceFolder}"
+    }
+  ]
+}
