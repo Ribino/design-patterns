@@ -1,0 +1,5 @@
+{
+  "code-runner.executorMap": {
+    "kotlin": "kotlinc -include-runtime -d out/app.jar Main.kt && java -jar out/app.jar"
+  }
+}
